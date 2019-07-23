@@ -1,0 +1,78 @@
+*
+{
+margin:0;
+padding:0;
+}
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(cricket2.jpg);
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+}
+.main-nav
+{
+    float:right;
+    list-style:none;
+}
+.main-nav1
+{
+    float:left;
+    list-style:none;
+}
+.main-nav li
+{
+    display:inline-block;
+    padding:5px 20px;
+    font-size:30px;
+}
+.main-nav li a
+{
+    color:white;
+    text-decoration:none;
+}
+.main-nav li a:hover
+{
+    text-shadow: 2px 2px ;
+    color:salmon;
+
+}
+main-nav1 li
+{
+    display:inline-block;
+    padding:5px 20px;
+    font-size:30px;
+}
+.main-nav1 li a
+{
+    color:white;
+    text-decoration:none;
+}
+.main-nav1 li a:hover
+{
+    text-shadow: 2px 2px ;
+    color:salmon;
+
+}
+body
+{
+    font-family:monospace;
+}
+h1
+{
+    color:white;
+    margin-left:200px;
+}
+#p1
+{
+    font-size:30px;
+    text-decoration:none;
+    font-style:italic;
+    color:white;
+}
+#ab
+{
+ text-align:right;
+    color:white;
+font-size: 30x;
+}
